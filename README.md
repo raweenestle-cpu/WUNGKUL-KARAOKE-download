@@ -1,2 +1,16 @@
-# WUNGKUL-KARAOKE-download
-WUNGKUL KARAOKE Android app download (install file only)
+# WUNGKUL KARAOKE — ดาวน์โหลดแอป Android
+
+**ดาวน์โหลดแอปเวอร์ชันล่าสุด:** https://github.com/raweenestle-cpu/WUNGKUL-KARAOKE-download/releases/latest/download/WUNGKUL_KARAOKE.apk
+
+ที่นี่มีเฉพาะไฟล์ติดตั้งแอป ไม่มีโค้ดโปรแกรม ใช้ได้กับมือถือ Android และ Android TV / Google TV (iPhone ยังใช้ไม่ได้)
+
+## วิธีติดตั้งบนมือถือ
+1. แตะลิงก์ดาวน์โหลดด้านบน
+2. ดาวน์โหลดเสร็จ แตะที่ไฟล์ แล้วกด **ติดตั้ง**
+3. ถ้าเครื่องถามเรื่องอนุญาตให้ติดตั้งแอป กด **ตั้งค่า** → เปิดสวิตช์อนุญาต → กดย้อนกลับ
+4. ถ้าขึ้น Play Protect กด **ติดตั้งต่อไป** (แอปยังไม่ได้อยู่ใน Play Store)
+5. เปิดแอป **WUNGKUL PRO** กดยอมรับข้อตกลง ใช้ได้ทันที ทดลอง PRO ฟรี 7 วัน
+
+มีแอปเวอร์ชันเก่าอยู่แล้ว ติดตั้งทับได้เลย ข้อมูลไม่หาย
+
+เพลงเล่นผ่าน YouTube และอาจมีโฆษณาตามปกติของ YouTube · [นโยบายความเป็นส่วนตัว](https://wungkul-karaoke.web.app/privacy.html)
