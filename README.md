@@ -1,6 +1,6 @@
 # WUNGKUL KARAOKE — ดาวน์โหลดแอป Android
 
-**ดาวน์โหลดแอปเวอร์ชันล่าสุด:** https://github.com/raweenestle-cpu/WUNGKUL-KARAOKE-download/releases/latest/download/WUNGKUL_KARAOKE.apk
+**ดาวน์โหลดแอปเวอร์ชันล่าสุด:** https://github.com/raweenestle-cpu/WUNGKUL-KARAOKE-download/raw/main/WUNGKUL_KARAOKE.apk
 
 ที่นี่มีเฉพาะไฟล์ติดตั้งแอป ไม่มีโค้ดโปรแกรม ใช้ได้กับมือถือ Android และ Android TV / Google TV (iPhone ยังใช้ไม่ได้)
 
